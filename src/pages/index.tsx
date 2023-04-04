@@ -4,7 +4,7 @@ import { NextPage } from 'next';
 const Index: NextPage = () => {
   return (
     <Box>
-      <Heading>hoge</Heading>
+      <Heading color="red.200">hoge!</Heading>
     </Box>
   );
 };
