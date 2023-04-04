@@ -4,7 +4,7 @@ import { NextPage } from 'next';
 const Index: NextPage = () => {
   return (
     <Box>
-      <Heading>DOKOEXAM!</Heading>
+      <Heading>hoge</Heading>
     </Box>
   );
 };
